@@ -7,4 +7,4 @@ Android Project Begineers
             
 Credits :- Anuj Bhaiya [!https://www.youtube.com/channel/UC58_wzhvJta3hDSPvRLDAqg]
 
-### ** Made By Mayank Singh:- msn2106@gmail.com**
+### *Made By Mayank Singh:- msn2106@gmail.com*
