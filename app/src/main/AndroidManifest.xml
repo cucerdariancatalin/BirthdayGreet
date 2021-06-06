@@ -7,8 +7,7 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.BirthDayGreet"
-        android:fullBackupContent="">
+        android:theme="@style/Theme.BirthDayGreet">
         <activity android:name=".WishBirthday" />
         <activity android:name=".MainActivity">
             <intent-filter>
